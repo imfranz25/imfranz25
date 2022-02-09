@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imfranz25
+- 👋 Hi, I’m @imfranz25 (Francis C. Ong)
 - 👀 I’m interested in Web Development, Software Development...
 - 🌱 I’m currently learning Web Fundamentals (HTML-CSS-JS-etc.)
 - 💞️ I’m looking to collaborate on making small to intermediate projects.
