@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 ## My GitHub Stats
 
-[![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=imfranz25&theme=radical)](https://github.com/imfranz25/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imfranz25&layout=compact)](https://github.com/imfranz25/github-readme-stats)
+[![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=imfranz25&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imfranz25&layout=compact&theme=radical)]
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imfranz25)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=imfranz25&theme=radical)]
