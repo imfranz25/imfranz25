@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 ## My GitHub Stats
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=imfranz25&theme=holi&show_icons=true" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfranz25&theme=holi" />
+<img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=imfranz25&theme=holi&show_icons=true" />
+<img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfranz25&theme=holi" />
