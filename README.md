@@ -33,8 +33,10 @@ You can click the Preview link to take a look at your changes.
 
 ![Francis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imfranz25&theme=holi&show_icons=true)
 
-## Let's connect!
-<a href="https://www.linkedin.com/in/francis-ong25/" target="_blank">
-  <img alt='Francis Ong - LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
-</a>
+<!---
+  ## Let's connect!
+  <a href="https://www.linkedin.com/in/francis-ong25/" target="_blank">
+    <img alt='Francis Ong - LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
+  </a>
+--->
 
